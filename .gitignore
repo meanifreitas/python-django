@@ -1,0 +1,7 @@
+venv
+.DS_store
+*.pyc
+.env
+.vscode
+.idea
+project/uploads/medias
